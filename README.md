@@ -20,7 +20,7 @@ I have developed many successful sites so far with mentioned skills.
 
 **Connect with me:**
 - 💬 Telegram : [@blockchainGuru125](https://t.me/blockchainGuru125)
-- 📝 Email : vasicdeveloperbg@gmail.com
+- 📝 Email : blockchainguru125@gmail.com
 
 **Languages and Tools:**   
 
