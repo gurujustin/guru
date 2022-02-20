@@ -15,7 +15,7 @@ I have developed many successful sites so far with mentioned skills.
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working as a freelancer on various freelancing platform
-- 🌱 I’m currently learning Cloud Computing
+- 🌱 I’m currently learning Edge Computing
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
