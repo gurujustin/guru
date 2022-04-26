@@ -1,5 +1,5 @@
 
-### Hey 👋🏽, I'm [BlockchainGuru125](https://t.me/blockchainGuru125)  
+### Hey 👋🏽, I'm [cryptoguru125](https://t.me/cryptoguru125)  
 
 <br/>
 
@@ -19,7 +19,7 @@ I have developed many successful sites so far with mentioned skills.
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Telegram : [@blockchainGuru125](https://t.me/blockchainGuru125)
+- 💬 Telegram : [@cryptoguru125](https://t.me/cryptoguru125)
 - 📝 Email : blockchainguru125@gmail.com
 
 **Languages and Tools:**   
