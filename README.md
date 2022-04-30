@@ -40,4 +40,4 @@ I have developed many successful sites so far with mentioned skills.
 
 
 
-⭐️ From [blockchainGuru125](https://github.com/cryptoguru125)
+⭐️ From [cryptoguru125](https://github.com/cryptoguru125)
