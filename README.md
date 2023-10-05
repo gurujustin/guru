@@ -1,9 +1,9 @@
 
-### Hey 👋🏽, I'm [cryptoguru125](https://t.me/cryptoguru125)  
+### Hey 👋🏽, I'm [guru](https://t.me/guru)  
 
 <br/>
 
-Hi, I'm BlockchainGuru125, a Blockchain and Cryptocurrency Developer 🚀, currently, I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contracts, DEFI and NFT marketplace. I develop website using React.js, Redux, web3.js, Vue.js, Express, Node.js, Laravel and etc.
+Hi, I'm guru, a Blockchain and Cryptocurrency Developer 🚀, currently, I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contracts, DEFI and NFT marketplace. I develop website using React.js, Redux, web3.js, Vue.js, Express, Node.js, Laravel and etc.
 I have developed many successful sites so far with mentioned skills.
 
 ####      ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Typescript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
@@ -19,8 +19,8 @@ I have developed many successful sites so far with mentioned skills.
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Telegram : [@cryptoguru125](https://t.me/cryptoguru125)
-- 📝 Email : blockchainguru125@gmail.com
+- 💬 Telegram : [@guru](https://t.me/guru)
+- 📝 Email : guru@gmail.com
 
 **Languages and Tools:**   
 
@@ -40,4 +40,4 @@ I have developed many successful sites so far with mentioned skills.
 
 
 
-⭐️ From [cryptoguru125](https://github.com/cryptoguru125)
+⭐️ From [guru](https://github.com/guru)
